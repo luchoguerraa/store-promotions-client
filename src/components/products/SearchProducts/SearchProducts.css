@@ -1,0 +1,25 @@
+.searchProduct-container{
+
+    border: 1px solid #0879c9;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 5%;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+    background-color: #0879c9;
+    ;
+  
+}
+.ws{
+    padding: 8px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 70%;
+}
+.label-product{
+    color: #ffffff;
+    border: 1px;
+}
