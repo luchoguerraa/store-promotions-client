@@ -12,9 +12,12 @@
   "dependencies": {
     "axios": "^0.18.0",
     "cross-env": "^5.1.4",
+    "express": "^4.17.1",
     "gh-pages": "^3.1.0",
     "history": "^4.6.3",
+    "http": "0.0.1-security",
     "marked": "^0.3.6",
+    "path": "^0.12.7",
     "prop-types": "^15.5.10",
     "react": "^16.3.0",
     "react-dom": "^16.3.0",
