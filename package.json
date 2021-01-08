@@ -33,7 +33,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": " PORT=process.env.PORT  react-scripts start",
+    "start": "PORT=process.env.PORT node server.js",
     "build": "react-scripts build",
     "test": " PORT=process.env.PORT react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
