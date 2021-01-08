@@ -7,7 +7,6 @@ const Product = props =>{
     return (
     <div className="product-container">
         <div>{id}</div>
-        <img src={image}  width="106px" height="122px" alt="producto"/>
         <div>{brand}</div>
         <div>{description}</div>
         <div>{price} {discount? '(50%)':'PN'}</div>
