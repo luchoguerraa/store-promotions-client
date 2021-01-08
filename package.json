@@ -37,5 +37,5 @@
     "test": " PORT=process.env.PORT react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://luchoguerra.github.io/my-app"
+  "homepage": "https://luchoguerraa.github.io/store-promotions-client/"
 }
