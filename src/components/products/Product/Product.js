@@ -3,10 +3,11 @@ import PropTypes from 'prop-types'
 import './Product.css'
 const Product = props =>{
     const { product } = props
-    const {brand, description, price, discount,id } = product
+    const {brand, description,image, price, discount,id } = product
     return (
     <div className="product-container">
         <div>{id}</div>
+        <div><img src={image} alt='products'/></div>
         <div>{brand}</div>
         <div>{description}</div>
         <div>{price} {discount? '(50%)':'PN'}</div>

@@ -4,7 +4,7 @@
 
 > ### React + Redux codebase for Store Promotions project
 
-### [Demo](https://react-redux.realworld.io)&nbsp;&nbsp;&nbsp;&nbsp;[Store Promotions](https://github.com/luchoguerraa/store-promotions-client)
+### [Demo]()&nbsp;&nbsp;&nbsp;&nbsp;[Store Promotions](https://github.com/luchoguerraa/store-promotions-client)
 
 Originally created for this [GH issue](https://github.com/luchoguerraa/store-product-web.git). The codebase is now feature complete; please submit bug fixes via pull requests & feedback via issues.
 
