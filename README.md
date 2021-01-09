@@ -2,7 +2,7 @@
 
 [[STORE-FORNT-END]]()
 
-> ### React + Redux codebase for Store Promotions proyect
+> ### React + Redux codebase for Store Promotions project
 
 ### [Demo](https://react-redux.realworld.io)&nbsp;&nbsp;&nbsp;&nbsp;[Store Promotions](https://github.com/luchoguerraa/store-promotions-client)
 
