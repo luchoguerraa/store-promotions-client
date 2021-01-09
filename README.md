@@ -18,6 +18,9 @@ To get the frontend running locally:
 - `npm install` to install all req'd dependencies
 - `npm start` to start the local server (this project uses create-react-app)
 
+warning:
+- `npm run build` to each change that you want to do and `npm start` again. For publish is used the folder build.
+
 Local web server will use port 3000 instead of standard React's port 3000,4100 or 8080 to prevent conflicts with some backends like Node or Rails. You can configure port in scripts section of `package.json`: we use [cross-env](https://github.com/kentcdodds/cross-env) to set environment variable PORT for React scripts, this is Windows-compatible way of setting environment variables.
  
 ### Making requests to the backend API
